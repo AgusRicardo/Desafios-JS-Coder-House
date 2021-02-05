@@ -1,6 +1,4 @@
 // Suma
-
-let enter = do
 let btnSuma = document.getElementById('botonSuma').addEventListener('click', function () {
     let input1Suma = document.getElementById('input1Suma').value
     let input2Suma = document.getElementById('input2Suma').value
